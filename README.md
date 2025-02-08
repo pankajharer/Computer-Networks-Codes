@@ -18,5 +18,5 @@ This repository contains **implementations of fundamental Computer Networks prac
 
 ## **🛠️ Technologies Used**  
 
-- **Programming Languages**: C++  
+- **Programming Languages**: C/ C++  
 - **Concepts Covered**: ARQ protocols, error detection, error correction, subnetting 
